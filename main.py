@@ -57,4 +57,4 @@ if __name__ == '__main__':
 
 keep_alive()
 bot.load_extension("jishaku")
-bot.run(""ODYxMjYwMzYzMzI3NDcxNjQ2.YOHNOA.BF2JJQApE5ji3sAfsq1noiNl734)
+bot.run("ODYxMjYwMzYzMzI3NDcxNjQ2.YOHNOA.BF2JJQApE5ji3sAfsq1noiNl734")
